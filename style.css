@@ -27,3 +27,15 @@ li a:hover:not(.active) {
   background-color: #04AA6D;
 }
 
+footer {
+  text-align: center;
+  background-color: black;
+  padding: 3px;
+  color: white;
+}
+
+img {
+  height: 600px;
+  width: 550px;
+}
+
